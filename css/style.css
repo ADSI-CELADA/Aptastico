@@ -180,6 +180,11 @@ footer {
         display: block;
         text-align: center;
     }
+
+     .content .imgH {
+        width: 30%;
+        height: 20%;
+    }
     
     section {
         display: inline-block;
